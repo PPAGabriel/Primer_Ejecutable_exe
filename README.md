@@ -1,4 +1,4 @@
-# Primer Ejecutable exe
+# Primer Ejecutable .exe
 
 ###### Una vez descargado el **.exe**, ejecutarlo **como Administrador** y dirigirse a la siguiente ruta:
 
