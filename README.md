@@ -4,6 +4,8 @@
 
 *Mi Equipo -> Archivo de programas (no la de x86) -> Carpeta con nombre del ejecutable*
 
-###### En esta ruta encontratas el programa listo para correr :smile:
+###### En esta ruta encontraras el programa listo para correr :smile:
+
+*Gabriel A. Pérez P*
 
 
